@@ -1,5 +1,6 @@
-### Hi there 👋, My name is Freelancer Daud
-#### Web Developer
+<h1 align="center">Hi 👋, I'm Freelancer Daud</h1>
+<h3 align="center">Web Developer</h3>
+
 ![Web Developer](https://cdn.buymeacoffee.com/uploads/cover_images/2025/05/uqQPVMMSZJuPoRdXK7HPiNUNF4RWcmg6twl4l5Qm.jpg)
 
 Hello Everyone, My name is Freelancer Daud. I am a Web Developer and Digital Marketer. | WordPress expert.
